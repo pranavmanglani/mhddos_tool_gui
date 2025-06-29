@@ -1,5 +1,6 @@
 streamlit
 PyRoxy
+yarl
 certifi
 cloudscraper
 dnspython
@@ -7,4 +8,3 @@ icmplib
 impacket
 psutil
 requests
-yarl
