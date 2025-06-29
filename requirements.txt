@@ -1,1 +1,10 @@
 streamlit
+PyRoxy
+certifi
+cloudscraper
+dnspython
+icmplib
+impacket
+psutil
+requests
+yarl
